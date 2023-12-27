@@ -1,0 +1,324 @@
+header{
+    width:100%;
+    height:10%;
+    top: 0%;
+    background-color: rgb(224, 13, 13);
+    position: absolute;
+}
+
+.contato{
+   left: 70%;
+   top: 40%;
+   position: absolute;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: rgb(255, 255, 255);
+}
+
+.logo{
+   width:12%;
+   height:10%;
+   top: 0%;
+   position: absolute;
+   left:45%;
+
+}
+ .home{
+    left:0%;
+    width:100%;
+    height:80%;
+    top:10%;
+    position: absolute;
+ }
+
+ .faixa{
+    left:30%;
+    width:40%;
+    height:70%;
+    top:115%;
+    position: absolute;
+
+ }
+
+ .FundoHome{
+    position:absolute;
+    width: 100%;
+    height: 80%;
+    background-color: rgba(0, 0, 0, 0.616);
+    top: 10%;
+    
+ }
+
+ .texto1{
+    position:absolute;
+    top: 37%;
+    width: 100%;
+    color: rgb(248, 0, 0);
+    font-family:fantasy;
+    font-size:500%;
+    left: 50%;
+ }
+
+ .texto2{
+    position:absolute;
+    top: 40%;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-family:fantasy;
+    font-size:350%;
+    left: 29%;
+ }
+
+ .texto3{
+   position:absolute;
+    top: 55%;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:180%;
+    text-align: center;
+ }
+ 
+.texto4{
+   position:absolute;
+   top: 65%;
+   width: 25%;
+   color: rgb(255, 255, 255);
+   font-family:fantasy;
+   font-size:180%;
+   background-color: rgb(255, 0, 0);
+   left: 37%;
+   transition: color 0.3s;
+   text-align: center;
+   border-radius: 10%;
+}
+.texto4:hover {
+color: rgb(0, 0, 0);
+}
+
+ .marcas{
+    height: 20%;
+    left: 30%;
+    position:absolute;
+    top: 95%;
+    width: 40%;
+    color: rgb(255, 255, 255);
+    font-size:155%;
+    text-align: center;
+
+ }
+
+ .card1{
+   position:absolute;
+   width: 90%;
+   height: 80%;
+   left:15%;
+   top: 330%;
+ }
+
+ .card2{
+   position:absolute;
+   width: 90%;
+   height: 80%;
+   left:15%;
+   top: 400%;
+ }
+
+ .card3{
+   position:absolute;
+   width: 90%;
+   height: 80%;
+   left:55%;
+   top: 330%;
+ }
+
+ .card4{
+   position:absolute;
+   width: 90%;
+   height: 80%;
+   left:55%;
+   top: 400%;
+ }
+
+.serviços{
+   position:absolute;
+   width: 25%;
+   height:20%;
+   left:37%;
+   top: 285%;
+}
+
+strong{
+   color:rgb(255, 0, 0);
+}
+
+.de2{
+   width:100%;
+   height:10%;
+   top: 280%;
+   background-color: rgb(255, 2, 2);
+   position: absolute;
+}
+
+.sec2{
+   left:0%;
+   width:100%;
+   height:80%;
+   top:200%;
+   position: absolute;
+}
+
+.localizaçao{
+   position:absolute;
+   width: 20%;
+   height:10%;
+   left:6%;
+   top: 232%;
+}
+
+.fundo2{
+   width:100%;
+   height:80%;
+   top: 200%;
+   background-color: rgba(0, 0, 0, 0.658);
+   position: absolute;
+}
+
+.retangoloLocal{
+   width:20%;
+   height:30%;
+   top: 230%;
+   left:5.5%;
+   background-color: rgba(255, 255, 255, 0.671);
+   position: absolute;
+   border-radius: 10%;
+   transition: color 0.3s;
+}
+
+.endereço{
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width:30%;
+   height:20%;
+   top: 245%;
+   left: 1%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.retangoloContato{
+   width:20%;
+   height:30%;
+   top: 230%;
+   left:40%;
+   background-color: rgba(255, 255, 255, 0.671);
+   position: absolute;
+   border-radius: 10%;
+}
+
+.watz{
+   position:absolute;
+   width: 25%;
+   height:10%;
+   left:31%;
+   top: 232%;
+}
+
+
+.tel{
+   position:absolute;
+   width: 25%;
+   height:10%;
+   left:31%;
+   top: 246%;
+}
+
+.nume1{
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width:30%;
+   height:20%;
+   top: 236%;
+   left: 36%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.nume2{
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width:30%;
+   height:20%;
+   top: 250%;
+   left: 36%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.retangolohora{
+   width:20%;
+   height:30%;
+   top: 230%;
+   left:70%;
+   background-color: rgba(255, 255, 255, 0.671);
+   position: absolute;
+   border-radius: 10%;
+}
+
+.relo{
+   position:absolute;
+   width: 20%;
+   height:8%;
+   left:70%;
+   top: 232%;
+}
+
+.horario{
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width:30%;
+   height:20%;
+   top: 241%;
+   left: 65%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.horario1{
+   color: rgb(0, 0, 0);
+   position: absolute;
+   width:30%;
+   height:20%;
+   top: 248%;
+   left: 65%;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Ola{
+   background-color: rgb(255, 0, 0);
+   color: rgb(255, 255, 255);
+   position: absolute;
+   width:30%;
+   height:7%;
+   top: 205%;
+   left: 35%;
+   font-size: xx-large;
+   text-align: center;
+   border-radius: 5%;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.info{
+   background-color: rgb(255, 255, 255);
+   color: rgb(255, 0, 0);
+   position: absolute;
+   width:30%;
+   height:7%;
+   top: 212%;
+   left: 35%;
+   border-radius: 5%;
+   font-size: xx-large;
+   text-align: center;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
